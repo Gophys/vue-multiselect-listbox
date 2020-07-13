@@ -153,7 +153,7 @@ export default {
       type: String,
       default: '',
     },
-    valueProperty {
+    valueProperty: {
       type: String,
       default: '',
      },
