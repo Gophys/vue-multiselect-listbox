@@ -153,6 +153,10 @@ export default {
       type: String,
       default: '',
     },
+    valueProperty {
+      type: String,
+      default: '',
+     },
   },
   data() {
     return {
